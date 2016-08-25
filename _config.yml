@@ -1,40 +1,28 @@
-purpose: []
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
+name: lda
+favicon: null
+layout_spectrum: 0.05057281022891402
+typography_spectrum: 0.7630034561734647
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5641588103026152
-  brandStrength: 0.9731183
-  lightness: 0.2714673464652151
   brandColors:
     - '#F7EDF0'
     - '#F4CBC6'
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
+  brandStrength: 0.9127167055848986
+  lightness: 0.2714673464652151
+  saturation: 0.5641588103026152
   rhythmicContrast: 0.6622121708933264
-cta:
-  bucket: null
-  version: null
-  domain: null
-favicon: null
-name: lda
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.2580645
-layout_spectrum: 0
+purpose: []
